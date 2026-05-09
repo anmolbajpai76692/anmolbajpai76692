@@ -280,6 +280,9 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolbajpai-tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajpaianmol597@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmolbajpai76692)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anmolbajpai76692/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Anmol23071002233)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anmolbajpai76692?igsh=NnBpaDlrdWd6bXdp)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918601623521)
 [![Location](https://img.shields.io/badge/Kanpur-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/maps?q=Kanpur)
 
@@ -295,6 +298,7 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 - 📊 **Data-Driven Decision Making** — Building analytics frameworks for real-time business intelligence
 - 🎯 **AI System Reliability** — Implementing eval frameworks and automated regression detection
 - 🔐 **System Security & Resilience** — Architecting failure-resistant, auditable systems
+- 💻 **Competitive Programming** — Active on LeetCode and HackerRank, solving complex algorithmic challenges
 
 ---
 
@@ -359,6 +363,7 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 - 💬 **Discussions** about system design, LLM architecture, and scalable infrastructure
 - 📞 **Mentorship** in full-stack development and AI-powered systems
 - 🚀 **Startups** with compelling product-market fit and technical challenges
+- 🏆 **Competitive Programming** conversations and algorithm challenges
 
 ---
 
@@ -373,6 +378,7 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 | **Admin Committee** | 12 members | 100% operational success |
 | **Process Optimization** | ~40% reduction | Streamlined workflows |
 | **Tech Expo 2025** | Zero failures | Production-grade reliability |
+| **HackerRank Gold Badge** | Problem Solving | Competitive programming excellence |
 
 ---
 
@@ -393,6 +399,15 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 - 📊 **Data expert:** Validation, cleaning, analytics, business reporting
 - 👥 **Leader:** Managed 12-member teams and 500+ stakeholders with 100% success
 - 🏆 **Demonstrable impact:** Tech Expo zero-failure demo, 30% error reduction, measurable fraud prevention
+- 💻 **Competitive coder:** Gold badge on HackerRank, active on LeetCode
+
+---
+
+## 🎬 **Social & Community**
+
+- 📸 **Instagram:** [@anmolbajpai76692](https://www.instagram.com/anmolbajpai76692?igsh=NnBpaDlrdWd6bXdp) — Follow for updates on tech projects and insights
+- 💡 **LeetCode:** [anmolbajpai76692](https://leetcode.com/u/anmolbajpai76692/) — Solving algorithmic challenges and improving problem-solving skills
+- 🏆 **HackerRank:** [Anmol23071002233](https://www.hackerrank.com/profile/Anmol23071002233) — Gold badge in Problem Solving, practicing competitive programming
 
 ---
 
@@ -406,6 +421,6 @@ I'm equally comfortable in **fast-moving startup environments** and **structured
 
 **Made with ❤️ by [Anmol Bajpai](https://github.com/anmolbajpai76692)**
 
-*Last Updated: 2026-05-09* | *Always learning, always building.* 🚀
+*Last Updated: 2026-05-09* | *Always learning, always building, always coding.* 🚀
 
 </div>
