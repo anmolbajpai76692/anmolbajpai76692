@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Backend Developer • AI/ML Systems Architect • Full-Stack Engineer • Data & Business Analyst**
+**Software Developer • Backend Developer • AI/ML Systems Architect • Full-Stack Engineer • Data & Business Analyst**
 
 🔗 [LinkedIn](https://linkedin.com/in/anmolbajpai-tech) • 📧 [Email](mailto:bajpaianmol597@gmail.com) • 📱 +91 8601623521 • 📍 Kanpur, India
 
